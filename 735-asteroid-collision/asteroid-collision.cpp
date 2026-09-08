@@ -8,22 +8,14 @@ public:
             if(st.empty() || val>=0) st.push(val);
 
             else{
-                bool flag=1;
-                while(!st.empty() && st.top()>=0){
-                    if(abs(val)<st.top()) {
-                        flag=0;
-                        break;
-                    }
-                    else if(abs(val)==st.top()){
-                        flag=0;
-                        st.pop();
-                        break;
-                    }
-                    else{
-                        st.pop();
-                    }
+                
+                while(!st.empty() && st.top()>=0 && st.top()<abs(val) ){
+                    st.pop();
                 }
-                if(flag) st.push(val);
+
+                if(st.empty() || st.top()<0) st.push(val);
+
+                else if(st.top()==abs(val)) st.pop();
             }
         }
 
