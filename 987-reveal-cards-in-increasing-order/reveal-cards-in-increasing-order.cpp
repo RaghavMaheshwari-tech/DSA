@@ -15,8 +15,11 @@ public:
 
             ans[idx] = deck[x++];
 
-            q.push(q.front());
-            q.pop();
+            if(!q.empty()){
+                q.push(q.front());
+                q.pop();
+            }
+
         }
 
         return ans;
