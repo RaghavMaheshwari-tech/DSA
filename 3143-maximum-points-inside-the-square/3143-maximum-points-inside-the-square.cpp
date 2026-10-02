@@ -1,6 +1,11 @@
 class Solution {
 public:
     int maxPointsInsideSquare(vector<vector<int>>& points, string s) {
+
+        //o(n) way
+        //find the second minimum distance of the repeated characters , then go with the loop and take the character which have the distance less than that..
+
+        
         int n = points.size();
         vector<pair<int,int>>arr;//max abs(cordinate), char
         unordered_map<int,int>mp;
