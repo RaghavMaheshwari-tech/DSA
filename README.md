@@ -30,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0074-search-a-2d-matrix) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3048-earliest-second-to-mark-indices-i) |
@@ -39,6 +40,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0074-search-a-2d-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
@@ -117,4 +119,8 @@
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
