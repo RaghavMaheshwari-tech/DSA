@@ -30,6 +30,7 @@
 | ------- |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [3048-earliest-second-to-mark-indices-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3143-maximum-points-inside-the-square](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3143-maximum-points-inside-the-square) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3356-zero-array-transformation-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3356-zero-array-transformation-ii) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [3048-earliest-second-to-mark-indices-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3143-maximum-points-inside-the-square](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3143-maximum-points-inside-the-square) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3356-zero-array-transformation-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3356-zero-array-transformation-ii) |
