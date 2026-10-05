@@ -60,12 +60,9 @@ public:
         vector<int>ans;
 
         for(int i=0;i<temp1.size();i++){
-            for(int j=0;j<temp2.size();j++){
-                if(abs(temp2[j]-temp1[i])<=k){
-                    ans.push_back(temp1[i]);
-                    break;
-                }
-            }
+            int target = temp1[i];
+            auto x = lower_bound(temp2.begin(),temp2.end(),target-k);
+            if(x!=temp2.end() && *x<=target+k) ans.push_back(temp1[i]);
         }
 
         return ans;
