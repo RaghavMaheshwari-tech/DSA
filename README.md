@@ -10,6 +10,7 @@
 | [0856-score-of-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3143-maximum-points-inside-the-square](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3143-maximum-points-inside-the-square) |
 ## Stack
 |  |
@@ -40,6 +41,7 @@
 | ------- |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3143-maximum-points-inside-the-square](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3143-maximum-points-inside-the-square) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -54,6 +56,7 @@
 |  |
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3356-zero-array-transformation-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3356-zero-array-transformation-ii) |
 ## Prefix Sum
@@ -88,24 +91,30 @@
 |  |
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## String Matching
 |  |
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Hash Function
 |  |
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Z Algorithm
 |  |
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 <!---LeetCode Topics End-->
