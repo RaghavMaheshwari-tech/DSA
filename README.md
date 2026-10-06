@@ -8,6 +8,7 @@
 | [0032-longest-valid-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
@@ -18,6 +19,7 @@
 | [0032-longest-valid-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -26,6 +28,7 @@
 | [0032-longest-valid-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
@@ -93,6 +96,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Rolling Hash
 |  |
 | ------- |
