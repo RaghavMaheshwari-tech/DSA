@@ -42,6 +42,7 @@
 | [0074-search-a-2d-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0875-koko-eating-bananas](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0875-koko-eating-bananas) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0875-koko-eating-bananas](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
