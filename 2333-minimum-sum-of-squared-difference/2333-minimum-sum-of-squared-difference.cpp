@@ -1,34 +1,33 @@
 class Solution {
 public:
+    typedef long long ll;
     long long minSumSquareDiff(vector<int>& nums1, vector<int>& nums2, int k1, int k2) {
-        vector<int> d(100001, 0);
-        long long k = (long long)k1 + k2, sum = 0;
-        int mx = 0;
-
-        // Step 1: count the differences
-        for (int i = 0; i < nums1.size(); i++) {
-            int x = abs(nums1[i] - nums2[i]);
-            d[x]++;
-            sum += x;
-            mx = max(mx, x);
+        int n = nums1.size();
+        ll k = 1LL*k1+k2;
+        vector<ll>diff(1e5+1,0);
+        for(int i=0;i<n;i++){
+            diff[abs(nums1[i]-nums2[i])]++;
         }
 
-        // Enough budget -> every difference becomes 0
-        if (sum <= k) return 0;
+        for(int i=1e5;i>=1;i--){
+            if(diff[i]==0) continue;
+            ll x = min(1LL*diff[i],k);
+            diff[i-1]+=x;
+            diff[i]-=x;
 
-        // Step 2: shave the biggest differences, level by level
-        for (int i = mx; i > 0 && k > 0; i--) {
-            long long move = min(k, (long long)d[i]);
-            d[i] -= move;
-            d[i - 1] += move;
-            k -= move;
+            k-=x;
+            if(k==0) break;
         }
 
-        // Step 3: add up the squares
-        long long ans = 0;
-        for (int i = 0; i <= mx; i++)
-            ans += (long long)i * i * d[i];
+        ll ans=0;
+
+        for(int i=1e5;i>=1;i--){
+            if(diff[i]==0) continue;
+            else ans+=(diff[i]*i*i);
+        }
 
         return ans;
+
+
     }
 };
