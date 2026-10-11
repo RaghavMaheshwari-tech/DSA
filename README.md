@@ -58,6 +58,7 @@
 | [2560-house-robber-iv](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2560-house-robber-iv) |
 | [2594-minimum-time-to-repair-cars](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2594-minimum-time-to-repair-cars) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2861-maximum-number-of-alloys](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2861-maximum-number-of-alloys) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3048-earliest-second-to-mark-indices-i) |
@@ -229,4 +230,8 @@
 |  |
 | ------- |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
