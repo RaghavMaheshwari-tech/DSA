@@ -26,16 +26,12 @@ public:
         ListNode*prev=head;
 
         while(curr){
-            if(curr->val<maxi){
-                curr = curr->next;
-            }
-            else{
+            if(curr->val>=maxi){
                 maxi = max(maxi,curr->val);
                 prev->next=curr;
                 prev = curr;
-                curr = curr->next;
             }
-            
+            curr = curr->next;
         }
         prev->next=curr;
 
