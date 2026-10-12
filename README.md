@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0826-most-profit-assigning-work](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0875-koko-eating-bananas) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0826-most-profit-assigning-work](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0875-koko-eating-bananas) |
@@ -116,6 +118,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0826-most-profit-assigning-work](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0826-most-profit-assigning-work) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -247,5 +250,14 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
