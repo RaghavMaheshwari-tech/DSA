@@ -10,45 +10,36 @@
  */
 class Solution {
 public:
+    ListNode* solve(ListNode* curr, ListNode* prev){
+        if(!curr) return prev;
+
+        ListNode* fut = curr->next;
+        curr->next = prev;
+
+        return solve(fut,curr);
+    }
     ListNode* removeNodes(ListNode* head) {
-        if(!head->next) return head;
-        ListNode*tail = head;
+        head = solve(head,NULL);
 
-        vector<int>arr;
-        while(tail){
-            arr.push_back(tail->val);
-            tail = tail->next;
-        }
+        int maxi=head->val;
+        ListNode*curr=head->next;
+        ListNode*prev=head;
 
-        int n = arr.size();
-
-        vector<int>suffix(n);
-        suffix[n-1] = arr[n-1];
-        for(int i=n-2;i>=0;i--){
-            suffix[i] = max(suffix[i+1],arr[i]);
-        }
-
-        ListNode * root = new ListNode(0);
-        root->next = head;
-
-        ListNode * prev=root;
-        ListNode* curr = head;
-
-        int i=0;
-        while(i<n && curr){
-            if(suffix[i]<=arr[i]){
-                prev=curr;
+        while(curr){
+            if(curr->val<maxi){
                 curr = curr->next;
             }
             else{
-                prev->next = curr->next;
+                maxi = max(maxi,curr->val);
+                prev->next=curr;
+                prev = curr;
                 curr = curr->next;
             }
-            i++;
+            
         }
+        prev->next=curr;
 
-        ListNode * ans = root->next;
-        delete root;
-        return ans;
+
+        return solve(head,NULL);
     }
 };
