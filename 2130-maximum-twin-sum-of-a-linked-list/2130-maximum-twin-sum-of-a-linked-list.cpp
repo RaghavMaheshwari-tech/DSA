@@ -20,22 +20,21 @@ public:
         return solve(fut,curr);
     }
     int pairSum(ListNode* head) {
-        int x=0;
-        ListNode* tail = head;
+        ListNode* slow= head;
+        ListNode* fast = head;
+        ListNode* prev = NULL;
 
-        while(tail){
-            x++;
-            tail = tail->next;
+        while(fast && fast->next){
+            prev = slow;
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        tail=head;
-        int i=1;
-        while(i<=x/2){
-            tail= tail->next;
-            i++;
+        if(prev){
+            prev->next= NULL;
         }
 
-        ListNode * root = solve(tail,NULL);
+        ListNode *root = solve(slow,NULL);
 
         int ans = 0;
         while(root){
