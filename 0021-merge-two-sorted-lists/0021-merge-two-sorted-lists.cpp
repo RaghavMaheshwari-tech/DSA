@@ -14,7 +14,7 @@ public:
         ListNode* head = new ListNode(0);
         ListNode* tail = head;
 
-        while(list1!=NULL && list2!=NULL){
+        while(list1 && list2){
             if(list1->val<=list2->val){
                 tail->next = list1;
                 list1 = list1->next;
@@ -26,11 +26,11 @@ public:
             tail = tail->next;
         }
 
-        if(list1!=NULL){
+        if(list1){
             tail->next = list1;
             
         }
-        if(list2!=NULL){
+        if(list2){
             tail->next = list2;
         }
 
