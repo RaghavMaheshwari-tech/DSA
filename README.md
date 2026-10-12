@@ -27,6 +27,7 @@
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -247,6 +248,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0002-add-two-numbers) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -272,6 +274,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0206-reverse-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
