@@ -176,6 +176,7 @@
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2560-house-robber-iv](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2560-house-robber-iv) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -251,6 +252,7 @@
 | [0002-add-two-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0002-add-two-numbers) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Enumeration
 |  |
 | ------- |
