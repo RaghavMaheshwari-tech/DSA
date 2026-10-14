@@ -10,21 +10,32 @@
  */
 class Solution {
 public:
-    vector<int>arr;
-    int n;
+
+    int n=0;
+    ListNode* tail;
+    ListNode* tail2;
+
     Solution(ListNode* head) {
-        ListNode* tail = head;
+        tail2 = head;
+        tail = tail2;
 
         while(tail){
-            arr.push_back(tail->val);
+            n++;
             tail = tail->next;
         }
-        n = arr.size();
+        
     }
     
     int getRandom() {
+        tail = tail2;
+
         int x = rand() % n;
-        return arr[x];
+        
+        while(x--){
+            tail = tail->next;
+        }
+
+        return tail->val;
     }
 };
 
