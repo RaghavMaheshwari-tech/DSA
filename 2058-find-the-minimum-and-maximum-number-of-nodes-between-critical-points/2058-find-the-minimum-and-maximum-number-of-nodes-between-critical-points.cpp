@@ -15,6 +15,9 @@ public:
         ListNode* fut = head->next->next;
         ListNode* curr=head->next;
         ListNode* prev=head;
+        int first=-1,sec=-1,last=-1;
+        int maxi = 0;
+        int mini = 1e5;
         int cnt=1;
 
         while(fut){
@@ -23,24 +26,26 @@ public:
             int b = prev->val;
             int c = fut->val;
 
-            if((a>b && a>c) || (a<b && a<c)) arr.push_back(cnt);
-
+            if((a>b && a>c) || (a<b && a<c)){
+                if(first==-1){
+                    first=cnt;
+                    sec=first;
+                }
+                else{
+                    last = cnt;
+                    mini = min(mini,last-sec);
+                    sec=last;
+                }
+            }
             cnt++;
             prev=curr;
             curr=fut;
             fut=fut->next;
         }
 
-        if(arr.size()<2) return {-1,-1};
+        if(last==-1) return {-1,-1};
 
-        int maxi = arr[arr.size()-1]-arr[0];
-        int mini = maxi;
-
-        for(int i=1;i<arr.size();i++){
-            mini = min(mini,arr[i]-arr[i-1]);
-        }
-
-        return {mini,maxi};
+        else return {mini,last-first};
 
     }
 };
