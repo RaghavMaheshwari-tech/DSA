@@ -122,6 +122,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0142-linked-list-cycle-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0826-most-profit-assigning-work](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0826-most-profit-assigning-work) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -152,6 +153,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [1146-snapshot-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1146-snapshot-array) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -269,6 +271,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
@@ -277,6 +280,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0142-linked-list-cycle-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
