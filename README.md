@@ -252,6 +252,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0002-add-two-numbers) |
+| [0382-linked-list-random-node](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0382-linked-list-random-node) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -284,6 +285,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0382-linked-list-random-node](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0382-linked-list-random-node) |
 | [0725-split-linked-list-in-parts](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0725-split-linked-list-in-parts) |
 | [1669-merge-in-between-linked-lists](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1669-merge-in-between-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -319,4 +321,12 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
