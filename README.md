@@ -315,6 +315,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -323,6 +324,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -339,4 +341,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [2331-evaluate-boolean-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 <!---LeetCode Topics End-->
