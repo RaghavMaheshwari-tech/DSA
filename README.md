@@ -153,6 +153,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0077-combinations) |
 | [0301-remove-invalid-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Hash Table
