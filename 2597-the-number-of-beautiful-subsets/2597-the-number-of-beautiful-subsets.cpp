@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solve(int i,int k, int n, unordered_multiset<int>&st,vector<int>&nums){
+    int solve(int i,int k, int n, unordered_map<int,int>&st,vector<int>&nums){
 
         if(i==nums.size()){
             if(st.size()>=1) return 1;
@@ -15,11 +15,10 @@ public:
         int y = nums[i]-k;
         int right =0;
 
-        if(st.find(x)==st.end() && st.find(y)==st.end()){
-            st.insert(nums[i]);
+        if(st[x]==0 && st[y]==0){
+            st[nums[i]]++;
             right = solve(i+1,k,n,st,nums);
-            auto it = st.find(nums[i]);
-            st.erase(it);
+            st[nums[i]]--;
         }
 
         return left+right;
@@ -27,7 +26,7 @@ public:
 
     int beautifulSubsets(vector<int>& nums, int k) {
         int n = nums.size();
-        unordered_multiset<int>st;
+        unordered_map<int,int>st;
         return solve(0,k,n,st,nums);
     }
 };
