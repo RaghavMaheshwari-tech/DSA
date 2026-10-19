@@ -48,6 +48,7 @@
 | ------- |
 | [0046-permutations](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0079-word-search) |
 | [0287-find-the-duplicate-number](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -175,6 +176,7 @@
 | [0022-generate-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0301-remove-invalid-parentheses) |
@@ -306,6 +308,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
