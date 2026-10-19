@@ -66,6 +66,7 @@
 | [2187-minimum-time-to-complete-trips](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2560-house-robber-iv](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2560-house-robber-iv) |
 | [2594-minimum-time-to-repair-cars](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2594-minimum-time-to-repair-cars) |
@@ -155,6 +156,7 @@
 | [0032-longest-valid-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2560-house-robber-iv](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2560-house-robber-iv) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
