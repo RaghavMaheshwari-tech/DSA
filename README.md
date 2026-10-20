@@ -49,6 +49,7 @@
 | [0039-combination-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0079-word-search) |
@@ -126,6 +127,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0047-permutations-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0826-most-profit-assigning-work](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0826-most-profit-assigning-work) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -180,6 +182,7 @@
 | [0039-combination-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0079-word-search) |
