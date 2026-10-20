@@ -12,28 +12,41 @@
 class Solution {
 public:
     string ans;
-    void check(string temp){
-        reverse(temp.begin(),temp.end());
+    void check(string &temp){
+        if(ans.size()==0) {
+            ans = temp;
+            return;
+        }
 
-        if(ans.size()==0) ans = temp;
-        else{
-            if(ans>temp){
+        int n = ans.size();
+        int m = temp.size();
+        
+        for(int i=0;i<min(n,m);i++){
+            if(ans[n-i-1]>temp[m-i-1]){
                 ans = temp;
+                return;
+            }
+            if(ans[n-i-1] < temp[m-i-1]){
+                return;
             }
         }
+
+        ans = (n>m)? temp:ans;
     }
     void find(TreeNode* root ,string &temp){
+        if(!root) return;
+
+        
+
         if(!root->left && !root->right){
             temp+=('a' + root->val);
             check(temp);
             temp.pop_back();
             return;
         }
-        if(!root) return;
-
 
         temp+=('a' + root->val);
-
+        
         if(root->left) find(root->left,temp);
         if(root->right) find(root->right,temp);
 
@@ -44,6 +57,7 @@ public:
     string smallestFromLeaf(TreeNode* root) {
         string temp;
         find(root,temp);
+        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
