@@ -25,7 +25,8 @@ public:
         if(k*n<target) return 0;
         if(k*n==target) return 1;
 
-        dp.assign(901,vector<int>(31,-1));
+
+        dp.assign(n*k+1,vector<int>(n+1,-1));
         return find(0,n,k,target);
     }
 };
