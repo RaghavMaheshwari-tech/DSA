@@ -11,23 +11,15 @@
  */
 class Solution {
 public:
-    string solve(TreeNode* root){
-        if(!root->left && !root->right){
-            return to_string(root->val);
-        }
-        
-
-        string temp;
-        temp = to_string(root->val);
-
-        string left = (root->left)? '(' + solve(root->left) + ')' : "()";
-        if(root->right){
-            return temp + left + '(' + solve(root->right) + ')';
-        }
-        else return temp + left;
-
-    }
     string tree2str(TreeNode* root) {
-        return solve(root);
+        if(!root->left && !root->right) return to_string(root->val);
+        
+        string temp;
+        temp = to_string(root->val) + ((root->left)? '(' + tree2str(root->left) + ')' : "()");
+
+        if(root->right){
+            return temp + '(' + tree2str(root->right) + ')';
+        }
+        else return temp;
     }
 };
