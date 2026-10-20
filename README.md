@@ -175,6 +175,7 @@
 | [0032-longest-valid-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0131-palindrome-partitioning) |
+| [0576-out-of-boundary-paths](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0576-out-of-boundary-paths) |
 | [0678-valid-parenthesis-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0688-knight-probability-in-chessboard) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
