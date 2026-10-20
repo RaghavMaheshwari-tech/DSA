@@ -175,6 +175,7 @@
 | [0131-palindrome-partitioning](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0688-knight-probability-in-chessboard) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2560-house-robber-iv](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2560-house-robber-iv) |
