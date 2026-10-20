@@ -10,6 +10,7 @@
 | [0079-word-search](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0606-construct-string-from-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -376,6 +377,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Search Tree
@@ -387,6 +389,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Reservoir Sampling
@@ -409,6 +412,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0079-word-search) |
+| [0606-construct-string-from-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Combinatorics
 |  |
