@@ -12,7 +12,7 @@
 class Solution {
 public:
     string ans;
-    void check(string &temp){
+    void check(string temp){
         reverse(temp.begin(),temp.end());
 
         if(ans.size()==0) ans = temp;
@@ -22,11 +22,11 @@ public:
             }
         }
     }
-    void find(TreeNode* root ,string temp){
+    void find(TreeNode* root ,string &temp){
         if(!root->left && !root->right){
             temp+=('a' + root->val);
-
             check(temp);
+            temp.pop_back();
             return;
         }
         if(!root) return;
@@ -37,9 +37,13 @@ public:
         if(root->left) find(root->left,temp);
         if(root->right) find(root->right,temp);
 
+        temp.pop_back();
+        
+
     }
     string smallestFromLeaf(TreeNode* root) {
-        find(root,"");
+        string temp;
+        find(root,temp);
         return ans;
     }
 };
