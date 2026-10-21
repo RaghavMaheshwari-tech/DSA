@@ -24,6 +24,7 @@
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3143-maximum-points-inside-the-square](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3143-maximum-points-inside-the-square) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
