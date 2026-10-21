@@ -402,6 +402,7 @@
 | [0101-symmetric-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0606-construct-string-from-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0872-leaf-similar-trees) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -419,6 +420,7 @@
 | [0101-symmetric-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0606-construct-string-from-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0872-leaf-similar-trees) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -447,6 +449,7 @@
 | [0100-same-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0101-symmetric-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0606-construct-string-from-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0872-leaf-similar-trees) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
