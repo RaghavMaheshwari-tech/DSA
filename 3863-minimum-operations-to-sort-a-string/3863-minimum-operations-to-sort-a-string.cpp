@@ -1,10 +1,29 @@
 class Solution {
 public:
     int minOperations(string s) {
-        if (is_sorted(s.begin(), s.end())) return 0;  // already sorted
-        if (s.size() == 2) return -1;  // only single letters can be sorted, which changes nothing
-        auto [lo, hi] = minmax_element(s.begin() + 1, s.end() - 1);  // the middle's smallest and largest letters
-        if (s[0] <= min(*lo, s.back()) || max(s[0], *hi) <= s.back()) return 1;  // the first letter is the smallest, or the last the largest
-        return s.back() < *lo && *hi < s[0] ? 3 : 2;  // the middle sits strictly between the last letter and the first
+        int n = s.size();
+        if(n==1) return 0;
+        if(n==2){
+            if(s[0]<=s[1]) return 0;
+            else return -1;
+        }
+
+        string temp = s;
+        sort(temp.begin(),temp.end());
+        if(temp==s) return 0;
+        else if(temp[0]==s[0] || temp[n-1]==s[n-1]) return 1;
+        else{
+            string arr1 = s;
+            sort(arr1.begin(),arr1.begin()+n-1);
+            sort(arr1.begin()+1,arr1.end());
+            if(arr1==temp) return 2;
+
+            string arr2 = s;
+            sort(arr2.begin()+1,arr2.end());
+            sort(arr2.begin(),arr2.begin()+n-1);
+            if(arr2==temp) return 2;
+
+            else return 3;
+        }
     }
 };
