@@ -1,29 +1,42 @@
 class Solution {
 public:
     int minOperations(string s) {
-        int n = s.size();
-        if(n==1) return 0;
-        if(n==2){
-            if(s[0]<=s[1]) return 0;
-            else return -1;
+        int n = s.length();
+        
+        // 1. Check if already sorted (0 operations)
+        bool is_sorted = true;
+        for (int i = 0; i < n - 1; ++i) {
+            if (s[i] > s[i + 1]) {
+                is_sorted = false;
+                break;
+            }
         }
-
-        string temp = s;
-        sort(temp.begin(),temp.end());
-        if(temp==s) return 0;
-        else if(temp[0]==s[0] || temp[n-1]==s[n-1]) return 1;
-        else{
-            string arr1 = s;
-            sort(arr1.begin(),arr1.begin()+n-1);
-            sort(arr1.begin()+1,arr1.end());
-            if(arr1==temp) return 2;
-
-            string arr2 = s;
-            sort(arr2.begin()+1,arr2.end());
-            sort(arr2.begin(),arr2.begin()+n-1);
-            if(arr2==temp) return 2;
-
-            else return 3;
+        if (is_sorted) return 0;
+        
+        // 2. Unsortable edge case for length 2 (-1 operations)
+        if (n == 2) return -1;
+        
+        // Find the global minimum and maximum characters
+        char mn = s[0];
+        char mx = s[0];
+        for (char c : s) {
+            if (c < mn) mn = c;
+            if (c > mx) mx = c;
         }
+        
+        // 3. Check if 1 operation is enough
+        if (s[0] == mn || s[n - 1] == mx) {
+            return 1;
+        }
+        
+        // 4. Check if min or max exists anywhere in the middle (2 operations)
+        for (int i = 1; i < n - 1; ++i) {
+            if (s[i] == mn || s[i] == mx) {
+                return 2;
+            }
+        }
+        
+        // 5. Otherwise, both are trapped at opposite ends (3 operations)
+        return 3;
     }
 };
