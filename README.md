@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -398,6 +399,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -417,6 +419,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -448,6 +451,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0101-symmetric-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0543-diameter-of-binary-tree) |
