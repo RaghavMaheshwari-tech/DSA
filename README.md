@@ -16,6 +16,7 @@
 | [0856-score-of-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1079-letter-tile-possibilities](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -200,6 +201,7 @@
 | [0131-palindrome-partitioning](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1079-letter-tile-possibilities](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1219-path-with-maximum-gold](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1219-path-with-maximum-gold) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -210,6 +212,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [1079-letter-tile-possibilities](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1146-snapshot-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1146-snapshot-array) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -222,6 +225,7 @@
 ## Counting
 |  |
 | ------- |
+| [1079-letter-tile-possibilities](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1079-letter-tile-possibilities) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
