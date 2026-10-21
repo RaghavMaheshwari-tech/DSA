@@ -21,7 +21,7 @@ public:
 
     //     return odd<=1;
     // }
-    void solve(TreeNode* root,int odd){
+    void solve(TreeNode* root,int &odd){
         freq[root->val]++;
         if(freq[root->val]%2==0) odd--;
         else odd++;
@@ -47,8 +47,9 @@ public:
     }
     int pseudoPalindromicPaths (TreeNode* root) {
         freq.assign(10,0);
+        int odd=0;
 
-        solve(root,0);
+        solve(root,odd);
 
         return total;
     }
