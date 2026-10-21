@@ -1,18 +1,21 @@
 class Solution {
 public:
-    int sum=0;
-    void solve(int i, int val, vector<int>&nums){
+    int total=0;
+    void solve(int i, int &x, vector<int>&nums){
+
         if(i==nums.size()){
-            sum+=val;
+            total+=x;
             return;
         }
 
-        solve(i+1,val,nums);
-        solve(i+1,val^nums[i],nums);
+        solve(i+1,x,nums);
+        x^=nums[i];
+        solve(i+1,x,nums);
+        x^=nums[i];
     }
     int subsetXORSum(vector<int>& nums) {
-        solve(0,0,nums);
-
-        return sum;
+        int x = 0;
+        solve(0,x,nums);
+        return total;
     }
 };
