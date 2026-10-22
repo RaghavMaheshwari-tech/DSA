@@ -288,6 +288,7 @@
 | [0100-same-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0101-symmetric-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0404-sum-of-left-leaves](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0404-sum-of-left-leaves) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
@@ -403,6 +404,7 @@
 | [0100-same-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0872-leaf-similar-trees) |
@@ -423,6 +425,7 @@
 | [0100-same-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0872-leaf-similar-trees) |
@@ -454,6 +457,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0101-symmetric-tree) |
+| [0404-sum-of-left-leaves](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0872-leaf-similar-trees) |
