@@ -12,18 +12,22 @@
 class Solution {
 public:
     int solve(vector<int>&arr){
+        int n = arr.size();
         int cnt=0;
-        int n= arr.size();
-        for(int i=0;i<n-1;i++){
-            int mini = i;
-            for(int j=i+1;j<n;j++){
-                if(arr[mini]>arr[j]){
-                    mini = j;
-                }
-            }
+        vector<int>temp = arr;
+        sort(temp.begin(),temp.end());
 
-            if(mini!=i){
-                swap(arr[i],arr[mini]);
+        unordered_map<int,int>mp;
+        for(int i=0;i<n;i++){
+            mp[arr[i]] = i;
+        }
+
+        for(int i=0;i<n;i++){
+            if(temp[i]!=arr[i]){
+                int ele = arr[i];
+                swap(arr[i],arr[mp[temp[i]]]);
+                mp[ele] = mp[temp[i]];
+                mp[temp[i]] = i;
                 cnt++;
             }
         }
