@@ -21,6 +21,7 @@
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2409-count-days-spent-together) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
@@ -337,6 +338,7 @@
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2409-count-days-spent-together](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2409-count-days-spent-together) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
