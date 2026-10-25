@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0042-trapping-rain-water) |
@@ -144,6 +145,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0056-merge-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0142-linked-list-cycle-ii) |
