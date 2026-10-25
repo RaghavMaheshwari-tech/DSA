@@ -55,6 +55,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0042-trapping-rain-water) |
@@ -161,6 +162,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -244,6 +246,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0826-most-profit-assigning-work](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
