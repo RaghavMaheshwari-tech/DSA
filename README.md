@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0856-score-of-parentheses) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -160,6 +162,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0826-most-profit-assigning-work](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0826-most-profit-assigning-work) |
@@ -180,6 +183,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0131-palindrome-partitioning) |
 | [0576-out-of-boundary-paths](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0576-out-of-boundary-paths) |
@@ -320,6 +324,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0042-trapping-rain-water) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2487-remove-nodes-from-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
