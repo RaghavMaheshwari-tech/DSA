@@ -221,6 +221,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0146-lru-cache) |
 | [1079-letter-tile-possibilities](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1146-snapshot-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1146-snapshot-array) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
@@ -324,6 +325,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0146-lru-cache) |
 | [1146-snapshot-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1146-snapshot-array) |
 ## Persistent Data Structure
 |  |
@@ -379,6 +381,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0382-linked-list-random-node) |
@@ -515,4 +518,8 @@
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
