@@ -108,6 +108,7 @@
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3356-zero-array-transformation-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3356-zero-array-transformation-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
@@ -304,6 +305,7 @@
 | [1219-path-with-maximum-gold](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1254-number-of-closed-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -315,12 +317,14 @@
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -513,6 +517,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Combinatorics
 |  |
 | ------- |
