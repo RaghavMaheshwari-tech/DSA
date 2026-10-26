@@ -8,7 +8,7 @@ public:
         return x>=0 && x<n && y>=0 && y<m;
     }
 
-    int solve(int r,int c, vector<vector<int>>& grid, int k){
+    int solve(int r,int c, vector<vector<int>>& grid, int w){
         queue<pair<int,int>>q;
         q.push({r,c});
         
@@ -31,7 +31,7 @@ public:
             }
         }
 
-        return sum%k==0;
+        return sum%w==0;
     }
 
     int countIslands(vector<vector<int>>& grid, int k) {
