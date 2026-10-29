@@ -26,6 +26,7 @@
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3143-maximum-points-inside-the-square](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3143-maximum-points-inside-the-square) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -111,6 +112,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
@@ -394,6 +396,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Pigeonhole Principle
 |  |
@@ -445,6 +448,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
@@ -472,6 +476,7 @@
 | [2331-evaluate-boolean-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -519,10 +524,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -548,6 +555,7 @@
 | [2331-evaluate-boolean-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Combinatorics
 |  |
 | ------- |
