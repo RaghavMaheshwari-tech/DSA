@@ -324,6 +324,7 @@
 | [0404-sum-of-left-leaves](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0623-add-one-row-to-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0623-add-one-row-to-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -465,6 +466,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0623-add-one-row-to-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0938-range-sum-of-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -503,6 +505,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0623-add-one-row-to-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0938-range-sum-of-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -549,6 +552,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0623-add-one-row-to-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0938-range-sum-of-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
