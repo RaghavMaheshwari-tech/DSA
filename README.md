@@ -240,6 +240,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0146-lru-cache) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1079-letter-tile-possibilities](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1146-snapshot-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1146-snapshot-array) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -325,6 +326,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0623-add-one-row-to-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1254-number-of-closed-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -467,6 +469,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0938-range-sum-of-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -506,6 +509,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0938-range-sum-of-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -553,6 +557,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0938-range-sum-of-bst) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -590,6 +595,7 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Doubly-Linked List
@@ -626,4 +632,12 @@
 | [1757-recyclable-and-low-fat-products](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Binary Lifting
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
