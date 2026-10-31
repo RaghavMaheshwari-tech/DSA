@@ -479,6 +479,7 @@
 | [0979-distribute-coins-in-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -497,6 +498,7 @@
 | [0098-validate-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0938-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
@@ -521,6 +523,7 @@
 | [0979-distribute-coins-in-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -570,6 +573,7 @@
 | [0979-distribute-coins-in-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1254-number-of-closed-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
