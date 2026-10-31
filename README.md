@@ -664,6 +664,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [1791-find-center-of-star-graph](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1791-find-center-of-star-graph) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
