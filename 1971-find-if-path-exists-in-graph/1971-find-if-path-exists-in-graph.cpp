@@ -18,9 +18,7 @@ public:
         seen[source] = 1;
 
         while(!q.empty()){
-            int x = q.size();
 
-            while(x--){
                 int start=q.front();
                 q.pop();
 
@@ -34,7 +32,6 @@ public:
                     q.push(next);
                     seen[next]=1;
                 }
-            }
         }
 
         return 0;
