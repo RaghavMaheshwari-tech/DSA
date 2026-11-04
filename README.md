@@ -356,6 +356,7 @@
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
@@ -517,6 +518,7 @@
 | [2331-evaluate-boolean-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
@@ -614,6 +616,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Combinatorics
