@@ -71,6 +71,7 @@
 | [0079-word-search](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -333,6 +334,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0463-island-perimeter) |
 | [1219-path-with-maximum-gold](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1219-path-with-maximum-gold) |
@@ -346,6 +348,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0463-island-perimeter) |
@@ -366,6 +369,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -596,6 +600,7 @@
 | [0098-validate-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0101-symmetric-tree) |
+| [0200-number-of-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0513-find-bottom-left-tree-value) |
