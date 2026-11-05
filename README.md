@@ -85,6 +85,7 @@
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1254-number-of-closed-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1254-number-of-closed-islands) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -135,6 +136,7 @@
 | [0826-most-profit-assigning-work](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0875-koko-eating-bananas) |
 | [1146-snapshot-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1146-snapshot-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -168,6 +170,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0826-most-profit-assigning-work](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0826-most-profit-assigning-work) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2070-most-beautiful-item-for-each-query) |
@@ -191,6 +194,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0826-most-profit-assigning-work](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0826-most-profit-assigning-work) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
