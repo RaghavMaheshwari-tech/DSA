@@ -356,6 +356,7 @@
 | [0404-sum-of-left-leaves](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -373,6 +374,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -609,6 +611,7 @@
 | [0463-island-perimeter](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -704,6 +707,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1971-find-if-path-exists-in-graph) |
