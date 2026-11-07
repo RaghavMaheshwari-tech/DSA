@@ -2,17 +2,6 @@ class Solution {
 public:
     long long ans=0;
 
-    // void solve(int node, int parent, vector<vector<int>>&adj, vector<int>&arr){
-
-    //     for(int i=0;i<adj[node].size();i++){
-    //         int next = adj[node][i];
-
-    //         if(next == parent) continue;
-
-    //         ans += (1LL*arr[node]+arr[next]);
-    //         solve(next,node,adj,arr);
-    //     }
-    // }
     long long maximumImportance(int n, vector<vector<int>>& roads) {
         vector<int>indeg(n,0);
         vector<vector<int>> adj(n);
@@ -46,7 +35,7 @@ public:
         for(int i = 0; i < roads.size(); i++) {
             ans += 1LL * (arr[roads[i][0]] + arr[roads[i][1]]);
         }
-        
+
         return ans;
 
 
