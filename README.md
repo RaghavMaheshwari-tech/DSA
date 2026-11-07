@@ -97,6 +97,7 @@
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1882-process-tasks-using-servers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -392,6 +393,7 @@
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1642-furthest-building-you-can-reach](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1642-furthest-building-you-can-reach) |
+| [1882-process-tasks-using-servers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2285-maximum-total-importance-of-roads](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
