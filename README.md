@@ -119,6 +119,7 @@
 | [2861-maximum-number-of-alloys](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2861-maximum-number-of-alloys) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3030-find-the-grid-of-region-average](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3030-find-the-grid-of-region-average) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
@@ -188,6 +189,7 @@
 | [2597-the-number-of-beautiful-subsets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2747-count-zero-request-servers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2747-count-zero-request-servers) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3143-maximum-points-inside-the-square](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3143-maximum-points-inside-the-square) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -394,6 +396,7 @@
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
