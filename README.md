@@ -85,6 +85,7 @@
 | [1219-path-with-maximum-gold](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1219-path-with-maximum-gold) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1254-number-of-closed-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -287,6 +288,7 @@
 |  |
 | ------- |
 | [1079-letter-tile-possibilities](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1079-letter-tile-possibilities) |
+| [1267-count-servers-that-communicate](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
@@ -346,6 +348,7 @@
 | [0463-island-perimeter](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0463-island-perimeter) |
 | [1219-path-with-maximum-gold](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3030-find-the-grid-of-region-average](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3030-find-the-grid-of-region-average) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -368,6 +371,7 @@
 | [0958-check-completeness-of-a-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -384,6 +388,7 @@
 | [0200-number-of-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -637,6 +642,7 @@
 | [1110-delete-nodes-and-return-forest](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1254-number-of-closed-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1382-balance-a-binary-search-tree) |
