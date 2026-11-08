@@ -118,6 +118,7 @@
 | [2861-maximum-number-of-alloys](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2861-maximum-number-of-alloys) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3030-find-the-grid-of-region-average](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3030-find-the-grid-of-region-average) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3143-maximum-points-inside-the-square](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3143-maximum-points-inside-the-square) |
@@ -346,6 +347,7 @@
 | [1219-path-with-maximum-gold](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1254-number-of-closed-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3030-find-the-grid-of-region-average](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3030-find-the-grid-of-region-average) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
