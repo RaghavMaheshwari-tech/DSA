@@ -78,6 +78,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0463-island-perimeter) |
+| [0525-contiguous-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0525-contiguous-array) |
 | [0826-most-profit-assigning-work](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0875-koko-eating-bananas) |
 | [0997-find-the-town-judge](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0997-find-the-town-judge) |
@@ -220,6 +221,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0525-contiguous-array) |
 | [2017-grid-game](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2017-grid-game) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3356-zero-array-transformation-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3356-zero-array-transformation-ii) |
@@ -274,6 +276,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0146-lru-cache) |
+| [0525-contiguous-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0525-contiguous-array) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0997-find-the-town-judge](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0997-find-the-town-judge) |
 | [1079-letter-tile-possibilities](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1079-letter-tile-possibilities) |
