@@ -97,6 +97,7 @@
 | [1642-furthest-building-you-can-reach](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1765-map-of-highest-peak](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1765-map-of-highest-peak) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1882-process-tasks-using-servers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1882-process-tasks-using-servers) |
@@ -357,6 +358,7 @@
 | [1219-path-with-maximum-gold](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1267-count-servers-that-communicate) |
+| [1765-map-of-highest-peak](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1765-map-of-highest-peak) |
 | [2017-grid-game](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2017-grid-game) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3030-find-the-grid-of-region-average](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3030-find-the-grid-of-region-average) |
@@ -383,6 +385,7 @@
 | [1267-count-servers-that-communicate](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1765-map-of-highest-peak](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
