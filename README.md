@@ -100,6 +100,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1882-process-tasks-using-servers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1882-process-tasks-using-servers) |
+| [2017-grid-game](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2017-grid-game) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -218,6 +219,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2017-grid-game](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2017-grid-game) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3356-zero-array-transformation-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3356-zero-array-transformation-ii) |
 ## Dynamic Programming
@@ -355,6 +357,7 @@
 | [1219-path-with-maximum-gold](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1267-count-servers-that-communicate) |
+| [2017-grid-game](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2017-grid-game) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3030-find-the-grid-of-region-average](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3030-find-the-grid-of-region-average) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
