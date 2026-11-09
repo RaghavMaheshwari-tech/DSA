@@ -90,6 +90,7 @@
 | [1254-number-of-closed-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -184,6 +185,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0826-most-profit-assigning-work](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0826-most-profit-assigning-work) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -286,6 +288,7 @@
 | [1110-delete-nodes-and-return-forest](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1146-snapshot-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1146-snapshot-array) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -312,6 +315,7 @@
 | [0678-valid-parenthesis-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0826-most-profit-assigning-work](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1642-furthest-building-you-can-reach) |
