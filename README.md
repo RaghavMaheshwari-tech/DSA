@@ -102,6 +102,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1642-furthest-building-you-can-reach](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1642-furthest-building-you-can-reach) |
+| [1686-stone-game-vi](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1686-stone-game-vi) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1765-map-of-highest-peak](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1765-map-of-highest-peak) |
@@ -195,6 +196,7 @@
 | [1424-diagonal-traverse-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1686-stone-game-vi](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1686-stone-game-vi) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2285-maximum-total-importance-of-roads) |
@@ -326,6 +328,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1642-furthest-building-you-can-reach) |
+| [1686-stone-game-vi](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1686-stone-game-vi) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2285-maximum-total-importance-of-roads](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2285-maximum-total-importance-of-roads) |
@@ -432,6 +435,7 @@
 | [1424-diagonal-traverse-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1642-furthest-building-you-can-reach](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1642-furthest-building-you-can-reach) |
+| [1686-stone-game-vi](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1686-stone-game-vi) |
 | [1882-process-tasks-using-servers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2285-maximum-total-importance-of-roads](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -471,6 +475,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1686-stone-game-vi](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1686-stone-game-vi) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -805,4 +810,16 @@
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2353-design-a-food-rating-system](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2353-design-a-food-rating-system) |
+## Minimax
+|  |
+| ------- |
+| [1686-stone-game-vi](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1686-stone-game-vi) |
+## Game Theory
+|  |
+| ------- |
+| [1686-stone-game-vi](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1686-stone-game-vi) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1686-stone-game-vi](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1686-stone-game-vi) |
 <!---LeetCode Topics End-->
