@@ -103,6 +103,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1642-furthest-building-you-can-reach](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1642-furthest-building-you-can-reach) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1686-stone-game-vi) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -235,6 +236,7 @@
 | ------- |
 | [0525-contiguous-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2017-grid-game](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2017-grid-game) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3356-zero-array-transformation-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3356-zero-array-transformation-ii) |
@@ -477,6 +479,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1686-stone-game-vi) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
