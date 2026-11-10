@@ -68,6 +68,7 @@
 | [0046-permutations](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0079-word-search) |
@@ -370,6 +371,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0200-number-of-islands) |
@@ -547,6 +549,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0059-spiral-matrix-ii) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
