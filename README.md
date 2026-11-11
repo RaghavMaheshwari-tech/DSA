@@ -107,6 +107,7 @@
 | [1642-furthest-building-you-can-reach](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1686-stone-game-vi) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1765-map-of-highest-peak](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1765-map-of-highest-peak) |
@@ -203,6 +204,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1686-stone-game-vi](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1686-stone-game-vi) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2285-maximum-total-importance-of-roads) |
@@ -340,6 +342,7 @@
 | [1642-furthest-building-you-can-reach](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [1686-stone-game-vi](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1686-stone-game-vi) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2285-maximum-total-importance-of-roads](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2285-maximum-total-importance-of-roads) |
@@ -390,6 +393,7 @@
 | [1219-path-with-maximum-gold](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1267-count-servers-that-communicate) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1765-map-of-highest-peak](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1765-map-of-highest-peak) |
 | [2017-grid-game](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2017-grid-game) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
