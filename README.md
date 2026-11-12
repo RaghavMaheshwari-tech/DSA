@@ -307,6 +307,7 @@
 | [1079-letter-tile-possibilities](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1110-delete-nodes-and-return-forest](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1146-snapshot-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1146-snapshot-array) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
@@ -550,6 +551,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0382-linked-list-random-node) |
 | [0725-split-linked-list-in-parts](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0725-split-linked-list-in-parts) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1669-merge-in-between-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
