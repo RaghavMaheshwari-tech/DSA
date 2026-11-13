@@ -101,6 +101,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1424-diagonal-traverse-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1424-diagonal-traverse-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -253,6 +254,7 @@
 | [0525-contiguous-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2017-grid-game](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2017-grid-game) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -270,6 +272,7 @@
 | [0688-knight-probability-in-chessboard](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0688-knight-probability-in-chessboard) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
@@ -510,6 +513,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1686-stone-game-vi) |
