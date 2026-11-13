@@ -5,6 +5,9 @@ public:
         int ans=0;
         long long sum=0;
 
+
+        //ya toh bilkul minimum find krlo ya bilkul maximum..
+
         for(int i=0;i<n;i++){
             sum+=nums[i];
             if(sum<0) sum=0;
