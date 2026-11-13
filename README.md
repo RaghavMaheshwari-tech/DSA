@@ -111,6 +111,7 @@
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1686-stone-game-vi) |
 | [1701-average-waiting-time](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1701-average-waiting-time) |
+| [1726-tuple-with-same-product](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1726-tuple-with-same-product) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -325,6 +326,7 @@
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1726-tuple-with-same-product](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1726-tuple-with-same-product) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -344,6 +346,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1079-letter-tile-possibilities](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1267-count-servers-that-communicate](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1267-count-servers-that-communicate) |
+| [1726-tuple-with-same-product](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1726-tuple-with-same-product) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
