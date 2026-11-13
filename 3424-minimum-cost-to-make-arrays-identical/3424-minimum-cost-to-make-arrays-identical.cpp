@@ -9,28 +9,15 @@ public:
             final+=(abs(brr[i]-arr[i]));
         }
 
-        unordered_map<int,int>mp;
-        
-        for(int i=0;i<n;i++){
-            mp[brr[i]]=arr[i];
-        }
-        
         long long ans=0;
 
         sort(arr.begin(),arr.end());
         sort(brr.begin(),brr.end());
 
         for(int i=0;i<n;i++){
-            if(mp[brr[i]]!=arr[i]){
-                ans+=k;
-                break;
-            }
-        }
-
-        for(int i=0;i<n;i++){
             ans+=(abs(brr[i]-arr[i]));
         }
 
-        return min(final,ans);
+        return min(final,ans+k);
     }
 };
