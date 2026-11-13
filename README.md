@@ -148,6 +148,7 @@
 | [3356-zero-array-transformation-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3356-zero-array-transformation-ii) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3433-count-mentions-per-user](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3433-count-mentions-per-user) |
+| [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -358,6 +359,7 @@
 | [2560-house-robber-iv](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2560-house-robber-iv) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3424-minimum-cost-to-make-arrays-identical) |
+| [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Rolling Hash
@@ -520,6 +522,7 @@
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
