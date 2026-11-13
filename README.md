@@ -113,6 +113,7 @@
 | [1701-average-waiting-time](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1701-average-waiting-time) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1765-map-of-highest-peak](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1765-map-of-highest-peak) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -274,6 +275,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2560-house-robber-iv](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2560-house-robber-iv) |
