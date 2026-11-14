@@ -8,6 +8,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0131-palindrome-partitioning) |
@@ -70,6 +71,7 @@
 | [0042-trapping-rain-water](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -205,6 +207,7 @@
 | ------- |
 | [0015-3sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0056-merge-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -315,6 +318,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0146-lru-cache) |
