@@ -134,6 +134,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2353-design-a-food-rating-system](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2353-design-a-food-rating-system) |
+| [2364-count-number-of-bad-pairs](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2364-count-number-of-bad-pairs) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2560-house-robber-iv](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2560-house-robber-iv) |
@@ -343,6 +344,7 @@
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2353-design-a-food-rating-system](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2353-design-a-food-rating-system) |
+| [2364-count-number-of-bad-pairs](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2364-count-number-of-bad-pairs) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -364,6 +366,7 @@
 | [1079-letter-tile-possibilities](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1267-count-servers-that-communicate](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1726-tuple-with-same-product](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1726-tuple-with-same-product) |
+| [2364-count-number-of-bad-pairs](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2364-count-number-of-bad-pairs) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -547,6 +550,7 @@
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2364-count-number-of-bad-pairs](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2364-count-number-of-bad-pairs) |
 | [2409-count-days-spent-together](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2409-count-days-spent-together) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2698-find-the-punishment-number-of-an-integer) |
