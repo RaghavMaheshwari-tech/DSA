@@ -105,6 +105,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1424-diagonal-traverse-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1424-diagonal-traverse-ii) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -224,6 +225,7 @@
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1424-diagonal-traverse-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1424-diagonal-traverse-ii) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1686-stone-game-vi](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1686-stone-game-vi) |
@@ -342,6 +344,7 @@
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1726-tuple-with-same-product](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1726-tuple-with-same-product) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -369,6 +372,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1079-letter-tile-possibilities](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1267-count-servers-that-communicate](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1267-count-servers-that-communicate) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1726-tuple-with-same-product](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1726-tuple-with-same-product) |
 | [2364-count-number-of-bad-pairs](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2364-count-number-of-bad-pairs) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -384,6 +388,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1642-furthest-building-you-can-reach](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [1686-stone-game-vi](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1686-stone-game-vi) |
