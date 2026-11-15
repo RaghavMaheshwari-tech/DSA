@@ -28,6 +28,7 @@
 | [2353-design-a-food-rating-system](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2353-design-a-food-rating-system) |
 | [2409-count-days-spent-together](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2409-count-days-spent-together) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3143-maximum-points-inside-the-square](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3143-maximum-points-inside-the-square) |
@@ -196,6 +197,7 @@
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2861-maximum-number-of-alloys](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2861-maximum-number-of-alloys) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3048-earliest-second-to-mark-indices-i) |
@@ -344,6 +346,7 @@
 | [2747-count-zero-request-servers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3026-maximum-good-subarray-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3026-maximum-good-subarray-sum) |
 | [3143-maximum-points-inside-the-square](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3143-maximum-points-inside-the-square) |
@@ -356,6 +359,7 @@
 | [1079-letter-tile-possibilities](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1267-count-servers-that-communicate](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1726-tuple-with-same-product](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1726-tuple-with-same-product) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
@@ -498,6 +502,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2747-count-zero-request-servers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2747-count-zero-request-servers) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
