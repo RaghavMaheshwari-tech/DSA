@@ -87,6 +87,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0463-island-perimeter) |
+| [0523-continuous-subarray-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0525-contiguous-array) |
 | [0769-max-chunks-to-make-sorted](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0826-most-profit-assigning-work](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0826-most-profit-assigning-work) |
@@ -264,6 +265,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1352-product-of-the-last-k-numbers) |
@@ -329,6 +331,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0146-lru-cache) |
 | [0451-sort-characters-by-frequency](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0525-contiguous-array) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -545,6 +548,7 @@
 | [0382-linked-list-random-node](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0382-linked-list-random-node) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0523-continuous-subarray-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1352-product-of-the-last-k-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -589,6 +593,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0523-continuous-subarray-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/0523-continuous-subarray-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
