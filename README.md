@@ -343,6 +343,7 @@
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2349-design-a-number-container-system](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2353-design-a-food-rating-system) |
 | [2364-count-number-of-bad-pairs](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2364-count-number-of-bad-pairs) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
@@ -502,6 +503,7 @@
 | [1882-process-tasks-using-servers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2285-maximum-total-importance-of-roads](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2349-design-a-number-container-system](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2353-design-a-food-rating-system) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
@@ -530,6 +532,7 @@
 | [1146-snapshot-array](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1146-snapshot-array) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1352-product-of-the-last-k-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [2349-design-a-number-container-system](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2353-design-a-food-rating-system) |
 ## Persistent Data Structure
 |  |
@@ -891,6 +894,7 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2349-design-a-number-container-system](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2353-design-a-food-rating-system) |
 ## Minimax
 |  |
