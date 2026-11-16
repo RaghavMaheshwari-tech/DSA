@@ -25,6 +25,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2353-design-a-food-rating-system](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2353-design-a-food-rating-system) |
 | [2409-count-days-spent-together](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2409-count-days-spent-together) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2516-take-k-of-each-character-from-left-and-right) |
@@ -642,6 +643,7 @@
 | [1701-average-waiting-time](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1701-average-waiting-time) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3433-count-mentions-per-user](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3433-count-mentions-per-user) |
 ## Divide and Conquer
 |  |
