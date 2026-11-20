@@ -158,6 +158,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3026-maximum-good-subarray-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3026-maximum-good-subarray-sum) |
 | [3030-find-the-grid-of-region-average](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3030-find-the-grid-of-region-average) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
@@ -244,6 +245,7 @@
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2747-count-zero-request-servers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3143-maximum-points-inside-the-square](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3143-maximum-points-inside-the-square) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3424-minimum-cost-to-make-arrays-identical) |
@@ -303,6 +305,7 @@
 | [2560-house-robber-iv](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2560-house-robber-iv) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3665-twisted-mirror-path-count](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3693-climbing-stairs-ii) |
