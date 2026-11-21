@@ -35,6 +35,7 @@
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3143-maximum-points-inside-the-square](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3143-maximum-points-inside-the-square) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -164,6 +165,7 @@
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3143-maximum-points-inside-the-square](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3143-maximum-points-inside-the-square) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3356-zero-array-transformation-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3356-zero-array-transformation-ii) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3424-minimum-cost-to-make-arrays-identical) |
@@ -374,6 +376,7 @@
 | [3026-maximum-good-subarray-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3026-maximum-good-subarray-sum) |
 | [3143-maximum-points-inside-the-square](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3143-maximum-points-inside-the-square) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Counting
 |  |
@@ -697,6 +700,7 @@
 | [2331-evaluate-boolean-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
@@ -802,6 +806,7 @@
 | [2331-evaluate-boolean-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3372-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3372-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
