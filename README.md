@@ -167,6 +167,7 @@
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3356-zero-array-transformation-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3356-zero-array-transformation-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3433-count-mentions-per-user](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3433-count-mentions-per-user) |
@@ -537,6 +538,7 @@
 | [2747-count-zero-request-servers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2747-count-zero-request-servers) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2982-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2982-find-longest-special-substring-that-occurs-thrice-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
@@ -580,6 +582,7 @@
 | [2597-the-number-of-beautiful-subsets](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3433-count-mentions-per-user](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3433-count-mentions-per-user) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -591,6 +594,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3440-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3440-reschedule-meetings-for-maximum-free-time-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
@@ -946,4 +950,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
