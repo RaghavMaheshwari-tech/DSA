@@ -183,6 +183,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3934-smallest-unique-subarray](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -258,6 +259,7 @@
 | [3433-count-mentions-per-user](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3433-count-mentions-per-user) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -425,6 +427,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -537,6 +540,7 @@
 | [2353-design-a-food-rating-system](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2353-design-a-food-rating-system) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/RaghavMaheshwari-tech/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
 |  |
